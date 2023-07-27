@@ -1,9 +1,9 @@
-<h2>🙌 안녕하세요!</h2>
+<h2>안녕하세요! 🙌<h2>
 
 <h2>About me</h2>
 ## 2023-04 ~ express.js 백엔드 개발
 
-<h1>SKILLS<h1>
+<h2>SKILLS<h2>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
